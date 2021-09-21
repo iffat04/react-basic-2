@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.product{
+  background-color: #61dafb;
+  margin: 20px;
+}
+
+.user{
+  background-color: brown;
+  color: #61dafb;
+  margin: 30px;
+}
